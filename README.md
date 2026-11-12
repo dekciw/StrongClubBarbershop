@@ -1,4 +1,6 @@
-<h1 align="center">Strong Club Barbershop</h1>
+<p align="center">
+  <img src="screenshots/logo.png" width="220" alt="Strong Club Barbershop">
+</p>
 
 <p align="center">
   <b>Лендинг мужского барбершопа: прайс на услуги, слайдер мастеров и онлайн-запись с выбором даты и времени.</b>
